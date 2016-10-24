@@ -1,6 +1,10 @@
 # storyboard-designable
 A helpful set of extensions and subclasses for easier Storyboard UI design on both macOS and iOS projects
 
+## Usage
+
+Simply drop the swift file into your project!
+
 ## Extension on `UIView`/`NSView`
 
 We provide an extension on both `UIView` and `NSView` which adds the following properties as IBDesignables in Interface Builder:
